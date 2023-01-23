@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michael Erwin, full-stack software engineer and digital marketer freelance 
 - 👀 I’m interested in web design, digital marketing, app and software development
-- 📫 How to reach me: michaelwebdesign | webdesignerpadova.it | michaelerwinconsulting@gmail.com | michael.erwin@webdesignerpadova.it
+- 📫 How to reach me: michaelerwinconsulting@gmail.com
 
 <!---
 Michael-Erwin-Web-Designer/Michael-Erwin-Web-Designer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
